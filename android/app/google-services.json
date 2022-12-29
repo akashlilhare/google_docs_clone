@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807133465102",
+    "project_id": "docs-clone-210a8",
+    "storage_bucket": "docs-clone-210a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807133465102:android:0431c7eca61590dedf4a5f",
+        "android_client_info": {
+          "package_name": "com.akash.google.docs.google_docs_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807133465102-85um7hikgi6s7kc27c0q7d7of09hoahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwoVgRE41yQE9ADWTyHhLf-_AmV9xP-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807133465102-85um7hikgi6s7kc27c0q7d7of09hoahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
